@@ -1,0 +1,112 @@
+header {color:brown;
+text-align:center;
+text-transform: uppercase;
+margin: auto;
+  width: 50%;
+  border: 3px solid aqua;
+  padding: 10px;
+}
+
+h2 {color:violet;
+text-align:left;}
+
+p {color:chocolate;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+sidebar {
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: lightcyan;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+sidebar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: darkorchid;
+  display: block;
+}
+
+sidebar a:hover {
+  color: #f9f1f1;
+}
+
+
+
+section { background-color: lightyellow;
+font-family:"Helvetica" sans-serif;
+  display: inline-block;
+width: 1160px;
+padding-left:160px;
+padding-right:20px;
+
+border: 0px solid firebrick;
+}
+
+img {border-radius: 8px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#explicatieFoto {
+  background-color: lavenderblush;
+font-family:"Helvetica" sans-serif;
+  display: block;
+font-style: italic;
+font-weight: bold;
+color: black;
+text-align:center;
+}
+
+table {font-family: arial, sans-serif;
+width: 80%;
+margin: 0 auto;
+border-style: groove;
+border-radius: 5px;
+}
+
+th {
+padding: 18px;
+}
+td {
+padding: 12px;
+}
+th,
+td {border: solid 1px #e6e6e6;
+}
+tr {
+background-color: #EDEDED;
+}
+tr.even {
+background-color: #F7F7F7;
+}
+
+
+
+#publishedWorks {font-family: verdana;
+color: red;
+
+}
+
+.title {font-style: italic;
+
+}
+
+footer {font-family:"courier new";
+padding:6px 8px 6px 160px;
+border-top: 1px solid lightskyblue;
+font-style: italic;
+text-align:center;
+padding: 20px 0 16px 200;
+border-top: 1px solid lightskyblue;
+margin=200px auto;
+}
