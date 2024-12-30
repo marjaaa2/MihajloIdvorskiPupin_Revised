@@ -108,5 +108,6 @@ font-style: italic;
 text-align:center;
 padding: 20px 0 16px 200;
 border-top: 1px solid lightskyblue;
-margin=200px auto;
+
+margin: 200px auto;
 }
